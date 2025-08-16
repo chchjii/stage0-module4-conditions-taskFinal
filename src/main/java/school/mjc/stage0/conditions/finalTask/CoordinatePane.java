@@ -2,7 +2,7 @@ package school.mjc.stage0.conditions.finalTask;
 
 public class CoordinatePane {
     public void printQuadrant(int x, int y) {
-        if (x > 1 && y>1){
+        if (x > 1 && y > 1){
             System.out.println("first");
         } else if (x < 1 && y > 1) {
             System.out.println("second");
